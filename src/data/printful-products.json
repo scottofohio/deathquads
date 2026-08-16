@@ -1,0 +1,861 @@
+{
+  "generatedAt": "2026-08-16T00:40:01.517Z",
+  "products": [
+    {
+      "printfulId": 456127384,
+      "name": "DEATHQUADS",
+      "category": "t-shirts",
+      "categoryLabel": "T-Shirts",
+      "thumbnailUrl": "https://files.cdn.printful.com/files/792/7928cf84b435794d9468bbd2a92a9f94_preview.png",
+      "currency": "USD",
+      "priceFrom": 30,
+      "priceTo": 35,
+      "variants": [
+        {
+          "id": "5442238203",
+          "name": "DEATHQUADS / S",
+          "size": "S",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "5484286_15114",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / S)"
+        },
+        {
+          "id": "5442238204",
+          "name": "DEATHQUADS / M",
+          "size": "M",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "5484286_15115",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / M)"
+        },
+        {
+          "id": "5442238205",
+          "name": "DEATHQUADS / L",
+          "size": "L",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "5484286_15116",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / L)"
+        },
+        {
+          "id": "5442238206",
+          "name": "DEATHQUADS / XL",
+          "size": "XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "5484286_15117",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / XL)"
+        },
+        {
+          "id": "5442238207",
+          "name": "DEATHQUADS / 2XL",
+          "size": "2XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "5484286_15118",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 2XL)"
+        },
+        {
+          "id": "5442238208",
+          "name": "DEATHQUADS / 3XL",
+          "size": "3XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "5484286_16326",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 3XL)"
+        },
+        {
+          "id": "5442238209",
+          "name": "DEATHQUADS / 4XL",
+          "size": "4XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "5484286_17500",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 4XL)"
+        }
+      ]
+    },
+    {
+      "printfulId": 456127383,
+      "name": "Sm*kes Packs",
+      "category": "t-shirts",
+      "categoryLabel": "T-Shirts",
+      "thumbnailUrl": "https://files.cdn.printful.com/files/b48/b482b200a3e0fc819577635ff03c03ad_preview.png",
+      "currency": "USD",
+      "priceFrom": 30,
+      "priceTo": 35,
+      "variants": [
+        {
+          "id": "5442238189",
+          "name": "Sm*kes Packs / White / S",
+          "size": "S",
+          "color": "White",
+          "colorCode": null,
+          "price": 30,
+          "sku": "7316716_15124",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (White / S)"
+        },
+        {
+          "id": "5442238190",
+          "name": "Sm*kes Packs / White / M",
+          "size": "M",
+          "color": "White",
+          "colorCode": null,
+          "price": 30,
+          "sku": "7316716_15125",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (White / M)"
+        },
+        {
+          "id": "5442238191",
+          "name": "Sm*kes Packs / White / L",
+          "size": "L",
+          "color": "White",
+          "colorCode": null,
+          "price": 30,
+          "sku": "7316716_15126",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (White / L)"
+        },
+        {
+          "id": "5442238192",
+          "name": "Sm*kes Packs / White / XL",
+          "size": "XL",
+          "color": "White",
+          "colorCode": null,
+          "price": 30,
+          "sku": "7316716_15127",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (White / XL)"
+        },
+        {
+          "id": "5442238193",
+          "name": "Sm*kes Packs / White / 2XL",
+          "size": "2XL",
+          "color": "White",
+          "colorCode": null,
+          "price": 35,
+          "sku": "7316716_15128",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (White / 2XL)"
+        },
+        {
+          "id": "5442238194",
+          "name": "Sm*kes Packs / White / 3XL",
+          "size": "3XL",
+          "color": "White",
+          "colorCode": null,
+          "price": 35,
+          "sku": "7316716_16335",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (White / 3XL)"
+        },
+        {
+          "id": "5442238195",
+          "name": "Sm*kes Packs / White / 4XL",
+          "size": "4XL",
+          "color": "White",
+          "colorCode": null,
+          "price": 35,
+          "sku": "7316716_17508",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (White / 4XL)"
+        },
+        {
+          "id": "5442238196",
+          "name": "Sm*kes Packs / Black / S",
+          "size": "S",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "7654793_15114",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / S)"
+        },
+        {
+          "id": "5442238197",
+          "name": "Sm*kes Packs / Black / M",
+          "size": "M",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "7654793_15115",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / M)"
+        },
+        {
+          "id": "5442238198",
+          "name": "Sm*kes Packs / Black / L",
+          "size": "L",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "7654793_15116",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / L)"
+        },
+        {
+          "id": "5442238199",
+          "name": "Sm*kes Packs / Black / XL",
+          "size": "XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "7654793_15117",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / XL)"
+        },
+        {
+          "id": "5442238200",
+          "name": "Sm*kes Packs / Black / 2XL",
+          "size": "2XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "7654793_15118",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 2XL)"
+        },
+        {
+          "id": "5442238201",
+          "name": "Sm*kes Packs / Black / 3XL",
+          "size": "3XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "7654793_16326",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 3XL)"
+        },
+        {
+          "id": "5442238202",
+          "name": "Sm*kes Packs / Black / 4XL",
+          "size": "4XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "7654793_17500",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 4XL)"
+        }
+      ]
+    },
+    {
+      "printfulId": 456127382,
+      "name": "SACRIFICE TO THE QUAD GODS Hoodie",
+      "category": "hoodies",
+      "categoryLabel": "Hoodies",
+      "thumbnailUrl": "https://files.cdn.printful.com/files/08e/08e30b3be184264ab4b1646bafffe364_preview.png",
+      "currency": "USD",
+      "priceFrom": 45,
+      "priceTo": 45,
+      "variants": [
+        {
+          "id": "5442238183",
+          "name": "SACRIFICE TO THE QUAD GODS Hoodie / S",
+          "size": "S",
+          "color": "Black",
+          "colorCode": null,
+          "price": 45,
+          "sku": "5937825_10779",
+          "availabilityStatus": "active",
+          "productName": "Cotton Heritage M2580 Premium Unisex Hoodie (Black / S)"
+        },
+        {
+          "id": "5442238184",
+          "name": "SACRIFICE TO THE QUAD GODS Hoodie / M",
+          "size": "M",
+          "color": "Black",
+          "colorCode": null,
+          "price": 45,
+          "sku": "5937825_10780",
+          "availabilityStatus": "active",
+          "productName": "Cotton Heritage M2580 Premium Unisex Hoodie (Black / M)"
+        },
+        {
+          "id": "5442238185",
+          "name": "SACRIFICE TO THE QUAD GODS Hoodie / L",
+          "size": "L",
+          "color": "Black",
+          "colorCode": null,
+          "price": 45,
+          "sku": "5937825_10781",
+          "availabilityStatus": "active",
+          "productName": "Cotton Heritage M2580 Premium Unisex Hoodie (Black / L)"
+        },
+        {
+          "id": "5442238186",
+          "name": "SACRIFICE TO THE QUAD GODS Hoodie / XL",
+          "size": "XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 45,
+          "sku": "5937825_10782",
+          "availabilityStatus": "active",
+          "productName": "Cotton Heritage M2580 Premium Unisex Hoodie (Black / XL)"
+        },
+        {
+          "id": "5442238187",
+          "name": "SACRIFICE TO THE QUAD GODS Hoodie / 2XL",
+          "size": "2XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 45,
+          "sku": "5937825_10783",
+          "availabilityStatus": "active",
+          "productName": "Cotton Heritage M2580 Premium Unisex Hoodie (Black / 2XL)"
+        },
+        {
+          "id": "5442238188",
+          "name": "SACRIFICE TO THE QUAD GODS Hoodie / 3XL",
+          "size": "3XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 45,
+          "sku": "5937825_13416",
+          "availabilityStatus": "active",
+          "productName": "Cotton Heritage M2580 Premium Unisex Hoodie (Black / 3XL)"
+        }
+      ]
+    },
+    {
+      "printfulId": 456127381,
+      "name": "Sacrifice to the Quad Gods",
+      "category": "t-shirts",
+      "categoryLabel": "T-Shirts",
+      "thumbnailUrl": "https://files.cdn.printful.com/files/0d0/0d09b40e34315366f49929be5845e3c2_preview.png",
+      "currency": "USD",
+      "priceFrom": 30,
+      "priceTo": 35,
+      "variants": [
+        {
+          "id": "5442238176",
+          "name": "Sacrifice to the Quad Gods / S",
+          "size": "S",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "1442276_15114",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / S)"
+        },
+        {
+          "id": "5442238177",
+          "name": "Sacrifice to the Quad Gods / M",
+          "size": "M",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "1442276_15115",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / M)"
+        },
+        {
+          "id": "5442238178",
+          "name": "Sacrifice to the Quad Gods / L",
+          "size": "L",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "1442276_15116",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / L)"
+        },
+        {
+          "id": "5442238179",
+          "name": "Sacrifice to the Quad Gods / XL",
+          "size": "XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "1442276_15117",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / XL)"
+        },
+        {
+          "id": "5442238180",
+          "name": "Sacrifice to the Quad Gods / 2XL",
+          "size": "2XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "1442276_15118",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 2XL)"
+        },
+        {
+          "id": "5442238181",
+          "name": "Sacrifice to the Quad Gods / 3XL",
+          "size": "3XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "1442276_16326",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 3XL)"
+        },
+        {
+          "id": "5442238182",
+          "name": "Sacrifice to the Quad Gods / 4XL",
+          "size": "4XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "1442276_17500",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 4XL)"
+        }
+      ]
+    },
+    {
+      "printfulId": 456127378,
+      "name": "Deathquads Skull",
+      "category": "t-shirts",
+      "categoryLabel": "T-Shirts",
+      "thumbnailUrl": "https://files.cdn.printful.com/files/fd6/fd69dbd2a3a493baf75faf7032fc1581_preview.png",
+      "currency": "USD",
+      "priceFrom": 30,
+      "priceTo": 35,
+      "variants": [
+        {
+          "id": "5442238140",
+          "name": "Deathquads Skull / S",
+          "size": "S",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "6327643_15114",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / S)"
+        },
+        {
+          "id": "5442238141",
+          "name": "Deathquads Skull / M",
+          "size": "M",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "6327643_15115",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / M)"
+        },
+        {
+          "id": "5442238142",
+          "name": "Deathquads Skull / L",
+          "size": "L",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "6327643_15116",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / L)"
+        },
+        {
+          "id": "5442238143",
+          "name": "Deathquads Skull / XL",
+          "size": "XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "6327643_15117",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / XL)"
+        },
+        {
+          "id": "5442238145",
+          "name": "Deathquads Skull / 2XL",
+          "size": "2XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "6327643_15118",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 2XL)"
+        },
+        {
+          "id": "5442238148",
+          "name": "Deathquads Skull / 3XL",
+          "size": "3XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "6327643_16326",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 3XL)"
+        },
+        {
+          "id": "5442238151",
+          "name": "Deathquads Skull / 4XL",
+          "size": "4XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "6327643_17500",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 4XL)"
+        }
+      ]
+    },
+    {
+      "printfulId": 456127377,
+      "name": "DEATHQUADS Black Metal",
+      "category": "t-shirts",
+      "categoryLabel": "T-Shirts",
+      "thumbnailUrl": "https://files.cdn.printful.com/files/84f/84f562db9a2d5fead7091836afa6c1a8_preview.png",
+      "currency": "USD",
+      "priceFrom": 30,
+      "priceTo": 35,
+      "variants": [
+        {
+          "id": "5442238133",
+          "name": "DEATHQUADS Black Metal / S",
+          "size": "S",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "7783868_15114",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / S)"
+        },
+        {
+          "id": "5442238134",
+          "name": "DEATHQUADS Black Metal / M",
+          "size": "M",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "7783868_15115",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / M)"
+        },
+        {
+          "id": "5442238135",
+          "name": "DEATHQUADS Black Metal / L",
+          "size": "L",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "7783868_15116",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / L)"
+        },
+        {
+          "id": "5442238136",
+          "name": "DEATHQUADS Black Metal / XL",
+          "size": "XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "7783868_15117",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / XL)"
+        },
+        {
+          "id": "5442238137",
+          "name": "DEATHQUADS Black Metal / 2XL",
+          "size": "2XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "7783868_15118",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 2XL)"
+        },
+        {
+          "id": "5442238138",
+          "name": "DEATHQUADS Black Metal / 3XL",
+          "size": "3XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "7783868_16326",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 3XL)"
+        },
+        {
+          "id": "5442238139",
+          "name": "DEATHQUADS Black Metal / 4XL",
+          "size": "4XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "7783868_17500",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 4XL)"
+        }
+      ]
+    },
+    {
+      "printfulId": 456127366,
+      "name": "DEATHQUADS Black Metal Cross",
+      "category": "t-shirts",
+      "categoryLabel": "T-Shirts",
+      "thumbnailUrl": "https://files.cdn.printful.com/files/ef2/ef20a4e02d55727a5035f3fd21bc82e6_preview.png",
+      "currency": "USD",
+      "priceFrom": 30,
+      "priceTo": 35,
+      "variants": [
+        {
+          "id": "5442238116",
+          "name": "DEATHQUADS Black Metal Cross / S",
+          "size": "S",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "5805679_15114",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / S)"
+        },
+        {
+          "id": "5442238117",
+          "name": "DEATHQUADS Black Metal Cross / M",
+          "size": "M",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "5805679_15115",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / M)"
+        },
+        {
+          "id": "5442238118",
+          "name": "DEATHQUADS Black Metal Cross / L",
+          "size": "L",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "5805679_15116",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / L)"
+        },
+        {
+          "id": "5442238119",
+          "name": "DEATHQUADS Black Metal Cross / XL",
+          "size": "XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "5805679_15117",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / XL)"
+        },
+        {
+          "id": "5442238121",
+          "name": "DEATHQUADS Black Metal Cross / 2XL",
+          "size": "2XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "5805679_15118",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 2XL)"
+        },
+        {
+          "id": "5442238122",
+          "name": "DEATHQUADS Black Metal Cross / 3XL",
+          "size": "3XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "5805679_16326",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 3XL)"
+        },
+        {
+          "id": "5442238123",
+          "name": "DEATHQUADS Black Metal Cross / 4XL",
+          "size": "4XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "5805679_17500",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 4XL)"
+        }
+      ]
+    },
+    {
+      "printfulId": 456127359,
+      "name": "DEATHQUADS Black Metal Cross Hoodie",
+      "category": "hoodies",
+      "categoryLabel": "Hoodies",
+      "thumbnailUrl": "https://files.cdn.printful.com/files/9d4/9d4c160ad89044c53caa58de7922025c_preview.png",
+      "currency": "USD",
+      "priceFrom": 45,
+      "priceTo": 45,
+      "variants": [
+        {
+          "id": "5442238104",
+          "name": "DEATHQUADS Black Metal Cross Hoodie / S",
+          "size": "S",
+          "color": "Black",
+          "colorCode": null,
+          "price": 45,
+          "sku": "1021686_10779",
+          "availabilityStatus": "active",
+          "productName": "Cotton Heritage M2580 Premium Unisex Hoodie (Black / S)"
+        },
+        {
+          "id": "5442238105",
+          "name": "DEATHQUADS Black Metal Cross Hoodie / M",
+          "size": "M",
+          "color": "Black",
+          "colorCode": null,
+          "price": 45,
+          "sku": "1021686_10780",
+          "availabilityStatus": "active",
+          "productName": "Cotton Heritage M2580 Premium Unisex Hoodie (Black / M)"
+        },
+        {
+          "id": "5442238106",
+          "name": "DEATHQUADS Black Metal Cross Hoodie / L",
+          "size": "L",
+          "color": "Black",
+          "colorCode": null,
+          "price": 45,
+          "sku": "1021686_10781",
+          "availabilityStatus": "active",
+          "productName": "Cotton Heritage M2580 Premium Unisex Hoodie (Black / L)"
+        },
+        {
+          "id": "5442238107",
+          "name": "DEATHQUADS Black Metal Cross Hoodie / XL",
+          "size": "XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 45,
+          "sku": "1021686_10782",
+          "availabilityStatus": "active",
+          "productName": "Cotton Heritage M2580 Premium Unisex Hoodie (Black / XL)"
+        },
+        {
+          "id": "5442238108",
+          "name": "DEATHQUADS Black Metal Cross Hoodie / 2XL",
+          "size": "2XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 45,
+          "sku": "1021686_10783",
+          "availabilityStatus": "active",
+          "productName": "Cotton Heritage M2580 Premium Unisex Hoodie (Black / 2XL)"
+        },
+        {
+          "id": "5442238109",
+          "name": "DEATHQUADS Black Metal Cross Hoodie / 3XL",
+          "size": "3XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 45,
+          "sku": "1021686_13416",
+          "availabilityStatus": "active",
+          "productName": "Cotton Heritage M2580 Premium Unisex Hoodie (Black / 3XL)"
+        }
+      ]
+    },
+    {
+      "printfulId": 456127355,
+      "name": "DeathQuads Priest of Death",
+      "category": "t-shirts",
+      "categoryLabel": "T-Shirts",
+      "thumbnailUrl": "https://files.cdn.printful.com/files/598/59873d764edd80d123e548738235329b_preview.png",
+      "currency": "USD",
+      "priceFrom": 30,
+      "priceTo": 35,
+      "variants": [
+        {
+          "id": "5442238094",
+          "name": "DeathQuads Priest of Death / S",
+          "size": "S",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "6169146_15114",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / S)"
+        },
+        {
+          "id": "5442238095",
+          "name": "DeathQuads Priest of Death / M",
+          "size": "M",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "6169146_15115",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / M)"
+        },
+        {
+          "id": "5442238096",
+          "name": "DeathQuads Priest of Death / L",
+          "size": "L",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "6169146_15116",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / L)"
+        },
+        {
+          "id": "5442238097",
+          "name": "DeathQuads Priest of Death / XL",
+          "size": "XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 30,
+          "sku": "6169146_15117",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / XL)"
+        },
+        {
+          "id": "5442238098",
+          "name": "DeathQuads Priest of Death / 2XL",
+          "size": "2XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "6169146_15118",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 2XL)"
+        },
+        {
+          "id": "5442238099",
+          "name": "DeathQuads Priest of Death / 3XL",
+          "size": "3XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "6169146_16326",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 3XL)"
+        },
+        {
+          "id": "5442238100",
+          "name": "DeathQuads Priest of Death / 4XL",
+          "size": "4XL",
+          "color": "Black",
+          "colorCode": null,
+          "price": 35,
+          "sku": "6169146_17500",
+          "availabilityStatus": "active",
+          "productName": "Unisex Garment-Dyed Heavyweight T-Shirt | Comfort Colors 1717 (Black / 4XL)"
+        }
+      ]
+    }
+  ]
+}

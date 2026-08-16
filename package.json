@@ -1,0 +1,20 @@
+{
+  "name": "deathquads",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Death Quads — t-shirts and hoodies, powered by Printful + Snipcart",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "serve": "gatsby serve",
+    "refresh-products": "node scripts/refresh-products.js"
+  },
+  "dependencies": {
+    "ajv": "^8.20.0",
+    "dotenv": "^8.6.0",
+    "gatsby": "^5.16.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
